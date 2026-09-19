@@ -1,5 +1,14 @@
 # 🌊 MOLOKAI TIENDA ONLINE
 
+[![Deploy to GitHub Pages](https://github.com/JamesRaynor007/MOLOKAI_TEST_VERSION_001/actions/workflows/deploy.yml/badge.svg)](https://github.com/JamesRaynor007/MOLOKAI_TEST_VERSION_001/actions/workflows/deploy.yml)
+[![Live Demo](https://img.shields.io/badge/Demo-Online-0ea5e9?style=for-the-badge&logo=shopify)](https://jamesraynor007.github.io/MOLOKAI_TEST_VERSION_001/)
+
+🌐 **Sitio Web en Vivo (GitHub Pages):**  
+👉 **[https://jamesraynor007.github.io/MOLOKAI_TEST_VERSION_001/](https://jamesraynor007.github.io/MOLOKAI_TEST_VERSION_001/)**
+
+📦 **Repositorio GitHub:**  
+👉 **[https://github.com/JamesRaynor007/MOLOKAI_TEST_VERSION_001](https://github.com/JamesRaynor007/MOLOKAI_TEST_VERSION_001)**
+
 Tienda online estilo **Shopify** para **MOLOKAI || INDUMENTARIA**, nacida de la migración y transformación de sus perfiles en [Instagram (@tienda.molokai)](https://www.instagram.com/tienda.molokai/) y [Facebook (Tienda Molokai)](https://www.facebook.com/profile.php?id=61565569539188).
 
 Ubicación: **Necochea & Quequén, Buenos Aires, Argentina**.
